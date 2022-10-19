@@ -32,14 +32,6 @@ public class CannonController : MonoBehaviour
         ParticleSystem.Play();
     }
 
-    private void Update()
-    {
-        if (Input.GetMouseButtonDown(1))
-        {
-            Shoot();
-        }
-    }
-
     private void Shoot()
     {
         GameManager.Singleton.SoundManager.PlaySound(GameManager.Singleton.SoundManager.CannonShootSound);
