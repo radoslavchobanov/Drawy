@@ -1,5 +1,3 @@
-# Drawy
-
 ## Overview
 Drawy is a fun and engaging game that challenges players to use their creativity and quick thinking to guide a ball into a basket using self-drawn ramps. The game features a simple yet addictive gameplay loop that keeps players hooked as they progress through various levels.
 <img src="https://user-images.githubusercontent.com/12681393/196622158-497632c5-f537-4c04-bb71-c807914df119.jpg" alt="Image" width="400" height="200">
